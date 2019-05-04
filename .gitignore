@@ -4,3 +4,17 @@
 .vscode/extensions.json
 .vscode/launch.json
 demo.py
+.installed.cfg
+bin
+develop-eggs
+dist
+downloads
+eggs
+parts
+src/*.egg-info
+lib
+lib64
+*.pyo
+*.pyc
+*.pyc
+__pycache__/

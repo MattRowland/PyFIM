@@ -28,3 +28,6 @@ def calculateHashes(filespaths):
         progress.progress(i, total, "Calculating Hashes")
         fileInfos.append({"filepath":filepath,"digest":calculateHash(filepath)})
     return fileInfos
+
+def detectDuplicates():
+    
