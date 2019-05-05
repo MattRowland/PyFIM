@@ -16,5 +16,3 @@ lib
 lib64
 *.pyo
 *.pyc
-*.pyc
-__pycache__/
